@@ -1,0 +1,115 @@
+{
+  "kinolar": [
+    {
+      "id": "1",
+      "img": "https://files.itv.uz/uploads/content/poster/2026/04/07/18002a1b9fcae2da9c6bc90487bd5b9b-q-350x501.jpeg",
+      "title": "Avatar",
+      "description": "Avatar: Suvning Yo'li — Birinchi filmning voqealaridan o'n yildan so'ng, bu davom Sully oilasining hikoyasini boshlavydi — ularning oldiga tushgan muammolar, bir-birlarini himoya qilish uchun qilgan sa'y-harakatlari, tirik qolish uchun kurashtirilgan janglar va boshdan kechirilgan fojialari.",
+      "ageLimit": 10,
+      "language": "uz,ru,eng",
+      "rating": 4.5,
+      "quality": "4k"
+    },
+    {
+      "id": "2",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
+      "title": "The Avengers",
+      "description": "Kutilmagan dushman paydo bo'lib, jahon xavfsizligi tahdid qilinganda, xalqaro tinchlik saqlovchi tashkilot S.H.I.E.L.D ning direktori Nik Fyuri dunyoni halokatdan qutqarish uchun jamoa kerakligini tushunadi.",
+      "ageLimit": 12,
+      "language": "uz,ru,eng",
+      "rating": 4.3,
+      "quality": "4k"
+    },
+    {
+      "id": "3",
+      "img": "https://files.itv.uz/uploads/content/poster/2025/08/22/cd944a676df9d50fe721e959f3923f56-q-350x501.jpeg",
+      "title": "F1",
+      "description": "Formula 1 poygasining yuqori suratsli dunyosini kuzatadigan qiziqarli dokumental uslubdagi film. Dunyoning eng nufuzli avtomobil poygasining tezligi, ambitsiyasi va raqobatini boshdan keching.",
+      "ageLimit": 12,
+      "language": "uz,ru,eng",
+      "rating": 4.4,
+      "quality": "4k"
+    },
+    {
+      "id": "4",
+      "img": "https://files.itv.uz/uploads/content/poster/2026/04/08/ad95c0c1d0bb03072c8965defb067e77-q-350x501.jpeg",
+      "title": "Songgi urunish",
+      "description": "Tekshirilish va orzu haqidagi ilhomlantiruvchi o'zbek dramasi. Har bir tamashachi yüregiga tegadigan qaynoqiminim engadi hikoya.",
+      "ageLimit": 10,
+      "language": "uz,ru",
+      "rating": 4.2,
+      "quality": "full-hd"
+    },
+    {
+      "id": "5",
+      "img": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg",
+      "title": "Interstellar",
+      "description": "Kosmonavtlar Saturnning yaqinida bo'lgan teshikni uladi va insoniyatning omon qolishi uchun yangi yashaydigan sayyora qidiradi.",
+      "ageLimit": 13,
+      "language": "uz,ru,eng",
+      "rating": 4.6,
+      "quality": "4k"
+    },
+    {
+      "id": "6",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMtkGBfHb06Qfe-eI5WYVbzMZ18yHhdowsA&s",
+      "title": "The Dark Knight",
+      "description": "Joker deb nomlanuvchi xavf o'z sirli o'tkanidan chiqadi va Gotham aholisini chaos bilan to'ldiradi. Batman adolatni himoya qilish uchun eng katta ruhiy sinovdan o'tishi kerak.",
+      "ageLimit": 14,
+      "language": "uz,ru,eng",
+      "rating": 4.7,
+      "quality": "4k"
+    },
+    {
+      "id": "7",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "title": "Inception",
+      "description": "Sopasiz ruhiy jarayonlardan foydalanib korporativ sirdlarni o'g'rilaydigan mahoratli o'g'ri, CEO ning ongiga fikr kiritish vazifasini beradi.",
+      "ageLimit": 13,
+      "language": "uz,ru,eng",
+      "rating": 4.5,
+      "quality": "4k"
+    },
+    {
+      "id": "8",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dune_%282021_film%29.jpg/250px-Dune_%282021_film%29.jpg",
+      "title": "Dune",
+      "description": "Brilliant yosh odam Pol Atridlar oilasining va xalqining kelajagini ta'minlash uchun xavfli Arrakis sayyorasiga safar qiladi — bu epik ilm-fan fantastikasi shohesaridir.",
+      "ageLimit": 13,
+      "language": "uz,ru,eng",
+      "rating": 4.4,
+      "quality": "4k"
+    },
+    {
+      "id": "9",
+      "img": "https://s.abcnews.com/images/GMA/cillian-murphy-oppenheimer-ht-thg-221219_1671464879464_hpMain_4x5_608.jpg",
+      "title": "Oppenheimer",
+      "description": "Ikkinchi Jahon urushida atom bombasining ishlab chiqarilishida rol o'ynamagan Amerika olimi J. Robert Oppenheimer haqidagi hikoya.",
+      "ageLimit": 14,
+      "language": "uz,ru,eng",
+      "rating": 4.5,
+      "quality": "4k"
+    },
+    {
+      "id": "10",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+      "title": "The Matrix",
+      "description": "Kompyuter xakerining haqiqatning haqiqiy tabiati va ularning nazoratchilariga qarshi urushda uning roli haqida bilishi.",
+      "ageLimit": 13,
+      "language": "uz,ru,eng",
+      "rating": 4.7,
+      "quality": "4k"
+    },
+    {
+      "title": "a",
+      "img": "a",
+      "description": "a",
+      "ageLimit": 1,
+      "language": "uz,ru,eng",
+      "rating": 1,
+      "quality": "4k",
+      "id": "uoP14ol9qCE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
