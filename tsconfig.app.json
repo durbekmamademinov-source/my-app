@@ -18,13 +18,13 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
-    
-    "baseUrl": ".",
-  "paths": {
-    "@components/*": [
-      "./src/components/*"
-    ]
-  },
+    /* O'ZGARTIRILGAN QISMLAR */
+    // "baseUrl" olib tashlandi, chunki "bundler" rejimida u shart emas
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
     /* Linting */
     "noUnusedLocals": true,
     "noUnusedParameters": true,
