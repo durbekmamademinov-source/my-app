@@ -20,11 +20,11 @@
     "jsx": "react-jsx",
     
     "baseUrl": ".",
-    "paths": {
-      "@/*": [
-        "./src/*"
-      ]
-    },
+  "paths": {
+    "@components/*": [
+      "./src/components/*"
+    ]
+  },
     /* Linting */
     "noUnusedLocals": true,
     "noUnusedParameters": true,

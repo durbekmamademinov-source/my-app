@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { toast } from "sonner";
 import { Delete } from './Delete';
 import { LockKeyhole, PlusCircle, LayoutDashboard, Globe, Star, Image as ImageIcon, Eye, EyeOff, ChevronLeft } from 'lucide-react';
